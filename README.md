@@ -46,10 +46,10 @@ These dashboards are ideal for:
 ## 📸 Screenshots
 
 ### 🟡 Market Performance Dashboard
-[Market Performance](1(1).png)
+[Market Performance](market.png)
 
 ### 🟠 P&L Dashboard
-[P&L Dashboard](2(2).png)
+[P&L Dashboard](pl.png)
 
 ---
 ⭐ If you find this project helpful, feel free to star the repo or connect with me!
